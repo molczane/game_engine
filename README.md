@@ -2,6 +2,16 @@
 
 ![Hazel](/Resources/Branding/Hazel_Logo_Text_Light_Square.png?raw=true "Hazel")
 
+ *** Words of mine ***
+ 
+In this repository, I am not including code of dependencies, such as: OpenGL, premake, GLAD, GLFW, spdlog, imgui. 
+
+Repository now is not under development, I will come back to it as soon as my studies let me do it, hopefully. 
+
+By the way, I am really grateful of the work The cherno have put into the Game Engine series, it's astonishing.
+
+*** Rest is not mine, but very important *** 
+
 Hazel is primarily an early-stage interactive application and rendering engine for Windows. Currently not much is implemented, however (almost) everything inside this repository is being created within YouTube videos, found at [thecherno.com/engine](https://thecherno.com/engine). 
 
 ***
